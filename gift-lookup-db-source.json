@@ -1,0 +1,60 @@
+{
+  "recipients": [
+    {
+      "last_name": "Vaz",
+      "first_name": "Elizabeth",
+      "date_of_birth": "2020-04-14",
+      "id": 1
+    },
+    {
+      "last_name": "Paul",
+      "first_name": "Manish",
+      "date_of_birth": "2021-03-25",
+      "id": 2
+    },
+    {
+      "last_name": "Popova",
+      "first_name": "Martina",
+      "date_of_birth": "2021-12-25",
+      "id": 3
+    },
+    {
+      "last_name": "Bhatt",
+      "first_name": "Alia",
+      "date_of_birth": "1993-03-15",
+      "id": 4
+    }
+  ],
+  "gifts": [
+    {
+      "user_id": 1,
+      "title": "Gabby's Dollhouse",
+      "date_gifted": "2024-02-20",
+      "gift_id": 1
+    },
+    {
+      "user_id": 1,
+      "title": "Melissa & Doug toy piano",
+      "date_gifted": "2023-04-05",
+      "gift_id": 2
+    },
+    {
+      "user_id": 2,
+      "title": "Fiskars hedge shears",
+      "date_gifted": "2021-03-09",
+      "gift_id": 3
+    },
+    {
+      "user_id": 3,
+      "title": "toy fire truck",
+      "date_gifted": "2022-05-11",
+      "gift_id": 4
+    },
+    {
+      "user_id": 4,
+      "title": "Madewell tote bag",
+      "date_gifted": "2022-05-11",
+      "gift_id": 5
+    }
+  ]
+}
