@@ -2,7 +2,7 @@
 
 ## Overview
 
-[Learn more about GiftTrackr](/docs/overview)
+[Learn more about GiftTrackr](overview)
 
 ## Quickstart
 
@@ -26,4 +26,4 @@ After your system is ready, these tutorials show you how to perform common tasks
 * UPDATE recipients
 * UPDATE gifts
 * DELETE recipients
-* DELETE gifts*
+* DELETE gifts
