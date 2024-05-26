@@ -3,7 +3,7 @@
 
 
 ## Overview
-[Learn more about GiftTrackr](overview)
+[Learn more about GiftTrackr](/docs/overview)
 
 ## Quickstart
 
