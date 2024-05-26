@@ -7,7 +7,7 @@ layout: page
 
 
 ## Overview
-[Learn more about GiftTrackr](docs/overview)
+[Learn more about GiftTrackr](overview)
 
 ## Quickstart
 
