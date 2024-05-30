@@ -4,10 +4,6 @@ In this tutorial, you'll learn how to add a new recipient for a gift list.
 
 Expect this tutorial to take about 15 minutes to complete.
 
-## Before you start
-
-Make sure you've completed the [Before you start a tutorial](before-you-start-a-tutorial) topic on the development system you'll use for the tutorial.
-
 ## Add a recipient
 
 Adding a recipient to the service requires that you add (`POST`) the details of a new [`recipient`](../api/create_recipient) resource to the service.
