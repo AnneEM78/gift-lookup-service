@@ -66,3 +66,7 @@ The following example shows the response. Note that the name should be the same 
 | 201 | Created | User data created successfully. |
 | 500 | Internal server Error | Invalid JSON. |
 | ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
+
+## Related information
+
+* [Handling errors](handling-errors.md)
