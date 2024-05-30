@@ -1,12 +1,8 @@
----
-layout: page
----
-
 # Create recipient
 
 Creates a [`recipient`](recipient) for a gift list.
-The request body contains the new recipient details. 
-You must specify the required properties for the recipient. 
+The request body contains the new recipient details.
+You must specify the required properties for the recipient.
 
 ## URL
 
@@ -34,7 +30,6 @@ In the request body, specify a JSON representation of the [`recipient`](recipien
 | first_name | The recipient's first name. | string | Required |  |
 | date_of_birth | The recipient's birthdate. | string | Required | MMDDYYYY format. |
 
-
 ## Sample request
 
 The POST body should look something like this. You can change the values of each property as you’d like.
@@ -50,6 +45,7 @@ The POST body should look something like this. You can change the values of each
 ```
 
 ## Return body
+
 The following example shows the response. Note that the name should be the same as what you used in your **Request body** and the response should include the new recipient's id. The recipient's id is automatically generated when the recipient is created.
 
 ```js
@@ -70,7 +66,3 @@ The following example shows the response. Note that the name should be the same 
 | 201 | Created | User data created successfully. |
 | 500 | Internal server Error | Invalid JSON. |
 | ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
-
-## Related information
-
-* [Handling errors](handling-errors.md)
