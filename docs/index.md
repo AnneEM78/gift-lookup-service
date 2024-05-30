@@ -19,12 +19,12 @@ After your system is ready, these tutorials show you how to perform common tasks
 
 ## API reference docs
 
-* [CREATE recipients](api/create_recipient.md)
-* [CREATE gifts](api/create_gift.md)
-* [READ recipients by name](api/read_recipients_by_name.md)
-* [READ recipients by birthdate](api/read_recipients_by_birthdate.md)
-* [UPDATE recipients](api/update_recipients.md)
-* [UPDATE gifts](api/update_gifts.md)
-* [DELETE recipients](api/delete_recipient.md)
-* [DELETE gifts](api/delete_gift.md)
-* [Handling errors](docs/api/handling_errors.md)
+* [CREATE recipients](api/create_recipient)
+* [CREATE gifts](api/create_gift)
+* [READ recipients by name](api/read_recipients_by_name)
+* [READ recipients by birthdate](api/read_recipients_by_birthdate)
+* [UPDATE recipients](api/update_recipients)
+* [UPDATE gifts](api/update_gifts)
+* [DELETE recipients](api/delete_recipient)
+* [DELETE gifts](api/delete_gift)
+* [Handling errors](api/handling_errors)
