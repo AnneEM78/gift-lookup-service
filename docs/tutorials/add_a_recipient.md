@@ -13,7 +13,7 @@ To add a recipient:
 1. Make sure your local service is running, or start it by using this command, if it's not.
 
     ```shell
-    cd <your-github-workspace>/to-do-service/api
+    cd <your-github-workspace>/gift-lookup-service/api
     json-server -w gift-lookup-db-source.json
     ```
 
