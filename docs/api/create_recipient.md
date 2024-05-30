@@ -69,4 +69,4 @@ The following example shows the response. Note that the name should be the same 
 
 ## Related information
 
-* [Handling errors](api/handling-errors.md)
+* [Handling errors](docs/api/handling-errors.md)

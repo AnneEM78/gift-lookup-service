@@ -27,4 +27,4 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [UPDATE gifts](api/update_gifts.md)
 * [DELETE recipients](api/delete_recipient.md)
 * [DELETE gifts](api/delete_gift.md)
-* [Handling errors](api/handling_errors.md)
+* [Handling errors](docs/api/handling_errors.md)
