@@ -19,8 +19,9 @@ To add a recipient:
 
 1. Open the Postman app on your desktop.
 1. In the Postman app, create a new request with these values:
+
     * **METHOD**: POST
-    * **URL**: `{{base_url}}/tasks`
+    * **URL**: `{{base_url}}/recipients`
     * **Headers**:`Content-Type: application/json`
     * **Request body**:
         You can change the values of each property as you'd like.
