@@ -21,7 +21,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 
 * [CREATE recipients](api/create_recipient)
 * [CREATE gifts](api/create_gift)
-* [READ recipients by name](api/read_recipients_by_name)
+* [READ recipients by first name](api/read_recipients_by_first_name)
 * [READ recipients by birthdate](api/read_recipients_by_birthdate)
 * [UPDATE recipients](api/update_recipients)
 * [UPDATE gifts](api/update_gifts)

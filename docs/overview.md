@@ -6,10 +6,10 @@ If you've got a lot of friends and family to buy gifts for, you've definitely se
 
 Now there's GiftTrackr, an easy-to-install API that lets users keep track of gift history, and avoid repeating gifts. GiftTrackr's API can be integrated with calendar apps, shopping list apps, address books, and more.
 
-With GiftTrackr, you can do the following:
+With GiftTrackr, you can:
 
 - Retrieve gifts purchased by recipient name
 
-- Retrieve gift by title
+- [Retrieve gifts by gift name](api/read_gifts_by_name.md)
 
-- Get recipients by birth month
+- [Retrieve recipients by birthdate](api/read_recipients_by_birthdate.md)
