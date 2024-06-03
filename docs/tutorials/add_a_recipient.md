@@ -30,8 +30,7 @@ To add a recipient:
         {
         "last_name": "Vaz",
         "first_name": "Elizabeth",
-        "date_of_birth": "2020-04-14",
-        "id": 1
+        "date_of_birth": "2020-04-14"
         }
         ```
 
