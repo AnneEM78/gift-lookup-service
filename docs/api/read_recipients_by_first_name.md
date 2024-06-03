@@ -1,18 +1,18 @@
-# Get gift by title
+# Get recipients by first name
 
-Returns an array of  [`gift`](gift) objects that contains only the gift specified by the `title` parameter, if it exists.
+Returns an array of  [`recipient`](recipient) objects that contains only the name specified by the `first_name` parameter, if it exists.
 
 ## URL
 
 ```shell
-{server_url}/gifts/{title}
+{server_url}/users?first_name={first name to find}
 ```
 
 ## Params
 
 | Parameter name | Type | Description |
 | -------------- | ------ | ------------ |
-| `title` | number | The record title of the gift to return |
+| `first_name` | String | The first name of the user to return |
 
 ## Request headers
 
@@ -26,17 +26,17 @@ None
 
 | Property name | Type | Description |
 | ------------- | ----------- | ----------- |
-| `title` | String | The title or short description of the gift |
+| `first_name` | String | The recipient's first name |
 
 Sample task response
 
 ```js
 [
     {
-      "user_id": 1,
-      "title": "Gabby's Dollhouse",
-      "date_gifted": "2024-02-20",
-      "gift_id": 1
+      "last_name": "Vaz",
+      "first_name": "Elizabeth",
+      "date_of_birth": "2020-04-14",
+      "id": 1
     }
 ]
 ```
