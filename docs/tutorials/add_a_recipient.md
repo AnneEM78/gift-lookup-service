@@ -35,7 +35,7 @@ To add a recipient:
         ```
 
 1. In the Postman app, choose **Send** to make the request.
-1. Watch for the response body, which should look something like this. Note that the names should be the same as you used in your **Request body** and the response should include the new user's `id`.
+1. Watch for the response body, which should look something like this. Note that the names should be the same as you used in your **Request body** and the response should include the new recipient's `id`.
 
     ```js
     {
