@@ -10,6 +10,6 @@ With GiftTrackr, you can:
 
 - [Create a list of all gifts you've entered, the receipients, and the dates given](api/read_all_gift_info.md)—or [get lists of gifts by recipient](api/read_gifts_by_recipient.md)
 
-- [Retrieve gifts by gift name](api/read_gifts_by_name.md)
+- [Retrieve gifts by gift name](api/read_gifts_by_title.md)
 
 - [Retrieve recipients by birthdate](api/read_recipients_by_birthdate.md)

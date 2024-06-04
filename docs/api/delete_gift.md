@@ -46,4 +46,4 @@ None
 
 ## Related information
 
-* [Handling errors](handling_errors)
+* [Handling errors](handling_errors.md)

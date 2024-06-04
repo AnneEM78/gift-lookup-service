@@ -2,9 +2,11 @@
 
 ## Overview
 
-[Learn more about GiftTrackr](overview)
+[Learn more about GiftTrackr](overview.md)
 
 ## Quickstart
+
+[Click here for the quickstart guide](quickstart.md)
 
 ## Tutorials
 
@@ -30,6 +32,4 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [READ recipient by birthdate](api/read_recipient_by_birthdate.md)
 * [UPDATE recipient](api/update_recipient.md)
 * [UPDATE gift](api/update_gift.md)
-
-
 * [Handling errors](api/handling_errors.md)
