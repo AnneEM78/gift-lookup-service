@@ -46,26 +46,26 @@ The API reference docs refer to a {server_url} when they refer to the URL of a r
 
 CREATE (POST)
 
-- [CREATE gift](api/create_gift.md)
-- [CREATE recipient](api/create_recipient.md)
+- [Create gift](api/create_gift.md)
+- [Create recipient](api/create_recipient.md)
 
 DELETE
 
-- [DELETE gift](api/delete_gift.md)
-- [DELETE recipient](api/delete_recipient.md)
+- [Delete gift](api/delete_gift.md)
+- [Delete recipient](api/delete_recipient.md)
 
 READ (GET)
 
-- [READ all gift info](api/read_all_gift_info.md)
-- [READ gift by recipient](api/read_gift_by_recipient.md)
-- [READ gift by title](api/read_gift_by_title.md)
-- [READ recipient by first name](api/read_recipient_by_first_name.md)
-- [READ recipient by birthdate](api/read_recipient_by_birthdate.md)
+- [Read all gift info](api/read_all_gift_info.md)
+- [Read gift by recipient](api/read_gift_by_recipient.md)
+- [Read gift by title](api/read_gift_by_title.md)
+- [Read recipient by first name](api/read_recipient_by_first_name.md)
+- [Read recipient by birthdate](api/read_recipient_by_birthdate.md)
 
 UPDATE (PUT/PATCH)
 
-- [UPDATE recipient](api/update_recipient.md)
-- [UPDATE gift](api/update_gift.md)
+- [Update recipient](api/update_recipient.md)
+- [Update gift](api/update_gift.md)
 
 ## Related information
 
