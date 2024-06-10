@@ -30,15 +30,8 @@ Learn how to do common tasks within the GiftTrackr service.
 
 After your system is ready, these tutorials show you how to perform common tasks.
 
-### Recipients
-
 - [Add a recipient](tutorials/add_a_recipient.md)
-- Get a list of recipients
-- Edit recipient info
-
-### Gifts
-
-- Add a gift
+- [Add a gift](tutorials/add_a_gift.md)
 
 ## API reference docs
 
