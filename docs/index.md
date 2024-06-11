@@ -12,7 +12,7 @@ Now there's GiftTrackr, an easy-to-install API that lets users keep track of gif
 
 Giftrackr uses two resources: recipients and gifts.
 
-With GiftTrackr, you can:
+With GiftTrackr, you can do the following and more:
 
 - [Add gifts to the system](api/create_gift.md)
 

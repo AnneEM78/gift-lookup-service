@@ -6,9 +6,9 @@ Use `PATCH` to update a recipient when you want to change only some of the infor
 
 The endpoint for using `PATCH` to update a recipient is:
 
-```
 {server_url}/recipients/{id}
-```
+
+```json
 
 ## Properties
 
@@ -52,6 +52,7 @@ curl
   
 }
 ```
+
 ### Partial recipient body
 
 ```json
@@ -59,6 +60,7 @@ curl
   
 }
 ```
+
 ## Related information
 
 * [Handling errors](handling_errors.md)
