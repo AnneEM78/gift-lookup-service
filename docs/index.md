@@ -14,7 +14,9 @@ Giftrackr uses two resources: recipients and gifts.
 
 With GiftTrackr, you can:
 
-- [Create a list of all gifts you've entered, the receipients, and the dates given](api/read_all_gift_info.md)
+- [Add gifts to the system](api/create_gift.md)
+
+- [Add recipient info](api/create_recipient.md)
 
 - [Retrieve gifts by gift name](api/read_gift_by_title.md)
 
@@ -47,10 +49,9 @@ DELETE
 
 READ (GET)
 
-- [Read all gift info](api/read_all_gift_info.md)
 - [Read gift by title](api/read_gift_by_title.md)
-- [Read recipient by first name](api/read_recipient_by_first_name.md)
 - [Read recipient by birthdate](api/read_recipient_by_birthdate.md)
+- [Read recipient by first name](api/read_recipient_by_first_name.md)
 
 UPDATE (PUT/PATCH)
 
