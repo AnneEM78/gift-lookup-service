@@ -1,11 +1,10 @@
 # Delete gift
 
-Delete a gift from the gift list.
+Delete a [`gift`](gift) from the gift list.
 
 ## URL
 
 ```shell
-
 DELETE {server_url}/gifts/<gift_id>
 ```
 

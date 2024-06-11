@@ -1,5 +1,7 @@
 # Update a recipient with PATCH
 
+Note: Parts of this page are incomplete.
+
 Use `PATCH` to update a recipient when you want to change only some of the information related to that recipient. You must supply the recipient `id` in both the request endpoint and the request body.
 
 ## Endpoint

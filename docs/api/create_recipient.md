@@ -7,7 +7,6 @@ You must specify the required properties for the recipient.
 ## URL
 
 ```shell
-
 {POST}{server_url}/recipients/
 ```
 

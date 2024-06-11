@@ -7,7 +7,6 @@ You must specify the required properties for the gift.
 ## URL
 
 ```shell
-
 {POST}{server_url}/gifts/
 ```
 

@@ -1,14 +1,16 @@
 # Update a gift with PATCH
 
-Use `PATCH` to update a gift when you want to change only some of the information related to that gift. You must supply the gift `id` in both the request endpoint and the request body. 
+Note: Parts of this page are incomplete.
+
+Use `PATCH` to update a gift when you want to change only some of the information related to that gift. You must supply the gift `id` in both the request endpoint and the request body.
 
 ## Endpoint
 
 The endpoint for using `PATCH` to update a gift is:
 
-```
 {server_url}/gifts/{id}
-```
+
+```json
 
 ## Properties
 
@@ -30,9 +32,9 @@ The following table defines properties in the request body.
 When you use `PATCH` to update a gift, you can:
 
 * **Update an entire gift** — Replace the entire request body.
-* **Update part of a gift** — Only replace the fields to update; omit the others. 
+* **Update part of a gift** — Only replace the fields to update; omit the others.
 
-> ℹ️ Gift `id` is required in both scenarios and must match in both the endpoint and the request body. For example, if you change the `id` in only the request body, the service returns a `200 OK`, but does not update the gift. 
+> ℹ️ gift `id` is required in both scenarios and must match in both the endpoint and the request body. For example, if you change the `id` in only the request body, the service returns a `200 OK`, but does not update the gift.
 
 ## Examples
 
@@ -45,20 +47,22 @@ curl
 }'
 ```
 
-### Complete gift body
+### Complete recipient body
 
 ```json
 {
   
 }
 ```
-### Partial gift body
+
+### Partial recipient body
 
 ```json
 {
   
 }
 ```
+
 ## Related information
 
 * [Handling errors](handling_errors.md)

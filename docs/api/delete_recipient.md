@@ -1,11 +1,10 @@
 # Delete recipient
 
-Delete a recipient from the recipient list.
+Delete a [`recipient`](recipient) from the recipient list.
 
 ## URL
 
 ```shell
-
 DELETE {server_url}/recipients/<id>
 ```
 
