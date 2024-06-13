@@ -1,6 +1,6 @@
 # Delete gift
 
-Delete a [`gift`](gift) from the gift list.
+Delete a `gift` from the gift list.
 
 ## URL
 

@@ -1,6 +1,6 @@
 # Create gift
 
-Creates a [`gift`](gift) for a gift list.
+Creates a `gift` for a gift list.
 The request body contains the gift details.
 You must specify the required properties for the gift.
 
@@ -25,9 +25,9 @@ In the request body, specify a JSON representation of the [`gift`](gift) object.
 
 | Property | Description | Type | Required | Notes |
 | -------------- | ------ | ------------ |------------ |------------ |
-| user_id | The recipient's id. | string | Required |   |
-| title | The name of the gift. | string | Required |  |
-| date_gifted | The date the gift was given. | string | Required | MMDDYYYY format. |
+| user_id | The recipient's id. | String | Required |   |
+| title | The name of the gift. | String | Required |  |
+| date_gifted | The date the gift was given. | String | Required | MMDDYYYY format. |
 
 ## Sample request
 

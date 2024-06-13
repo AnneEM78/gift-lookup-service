@@ -1,6 +1,6 @@
 # Create recipient
 
-Creates a [`recipient`](recipient) for a gift list.
+Creates a `recipient` for a gift list.
 The request body contains the new recipient details.
 You must specify the required properties for the recipient.
 
@@ -21,13 +21,13 @@ This request does not use any authorization. The endpoint is available to all us
 
 ## Request body
 
-In the request body, specify a JSON representation of the [`recipient`](recipient) object. The following table lists the properties that are required when you create a recipient.
+In the request body, specify a JSON representation of the recipient object. The following table lists the properties that are required when you create a recipient.
 
 | Property | Description | Type | Required | Notes |
 | -------------- | ------ | ------------ |------------ |------------ |
-| last_name | The recipient's last name. | string | Required |   |
-| first_name | The recipient's first name. | string | Required |  |
-| date_of_birth | The recipient's birthdate. | string | Required | MMDDYYYY format. |
+| last_name | The recipient's last name. | String | Required |   |
+| first_name | The recipient's first name. | String | Required |  |
+| date_of_birth | The recipient's birthdate. | String | Required | MMDDYYYY format. |
 
 ## Sample request
 

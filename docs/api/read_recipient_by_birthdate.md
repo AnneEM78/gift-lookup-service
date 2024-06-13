@@ -1,6 +1,6 @@
 # Get recipients by birthdate
 
-Returns an array of  [`recipient`](recipient) objects that contains only the birthdate specified by the `date_of_birth` parameter, if it exists.
+Returns an array of `recipient` objects that contains only the birthdate specified by the `date_of_birth` parameter, if it exists.
 
 ## URL
 

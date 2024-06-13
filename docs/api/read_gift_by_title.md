@@ -1,6 +1,6 @@
 # Get gift by title
 
-Returns an array of  [`gift`](gift) objects that contains only the gift specified by the `title` parameter, if it exists.
+Returns an array of `gift` objects that contains only the gift specified by the `title` parameter, if it exists.
 
 ## URL
 

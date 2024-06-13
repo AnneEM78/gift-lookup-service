@@ -1,6 +1,6 @@
 # Get recipients by first name
 
-Returns an array of  [`recipient`](recipient) objects that contains only the name specified by the `first_name` parameter, if it exists.
+Returns an array of `recipient` objects that contains only the name specified by the `first_name` parameter, if it exists.
 
 ## URL
 

@@ -1,6 +1,6 @@
 # Get all gift info
 
-Returns an array of [`gift`](gift) objects entered into the service with all related information.
+Returns an array of gift objects entered into the service with all related information.
 
 ## URL
 
