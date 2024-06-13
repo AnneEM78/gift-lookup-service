@@ -12,7 +12,7 @@ Returns an array of `recipient` objects that contains only the birthdate specifi
 
 | Parameter name | Type | Description |
 | -------------- | ------ | ------------ |
-| `date_of_birth` | number | The record birthdate of the user to return |
+| `date_of_birth` | Number | The record birthdate of the user to return |
 
 ## Request headers
 
@@ -26,7 +26,7 @@ None
 
 | Property name | Type | Description |
 | ------------- | ----------- | ----------- |
-| `date_of_birth` | String | The recipient birthdate |
+| `date_of_birth` | Number | The recipient birthdate |
 
 Sample task response
 
