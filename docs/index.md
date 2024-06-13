@@ -2,7 +2,7 @@
 
 ## Overview
 
-### GiftTracker—Gift Smart
+### GiftTrackr—Gift Smart
 
 Ever bought a birthday gift for someone, given it to them—and realized as they're opening it that you've already given them that gift?! So embarrassing—and so preventable.
 
