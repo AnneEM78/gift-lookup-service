@@ -12,7 +12,7 @@ Returns an array of `gift` objects that contains only the gift specified by the 
 
 | Parameter name | Type | Description |
 | -------------- | ------ | ------------ |
-| `title` | String | The record title of the gift to return |
+| `title` | String | The name of the gift |
 
 ## Request headers
 
@@ -26,7 +26,7 @@ None
 
 | Property name | Type | Description |
 | ------------- | ----------- | ----------- |
-| `title` | String | The title or short description of the gift |
+| `title` | String | The name of the gift |
 
 Sample task response
 
