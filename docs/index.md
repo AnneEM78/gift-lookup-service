@@ -61,3 +61,5 @@ UPDATE (PUT/PATCH)
 ## Related information
 
 - [Handling errors](handling_errors.md)
+
+Note: This is a mock API meant to simulate the REST interface of an imaginary service.
