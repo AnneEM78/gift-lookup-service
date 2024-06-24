@@ -55,6 +55,8 @@ READ (GET)
 
 UPDATE (PUT/PATCH)
 
+Note: The below functionalities are planned for a future release.
+
 - [Update recipient](api/update_recipient.md)
 - [Update gift](api/update_gift.md)
 

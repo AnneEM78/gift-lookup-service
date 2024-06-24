@@ -20,8 +20,8 @@ To build your API call, you must have the following components:
 | POST | [Create a gift](api/create_gift.md) |
 | DELETE | [Delete gift](api/delete_gift.md) |
 | DELETE | [Delete recipient](api/delete_recipient.md) |
-| PATCH | [Update gift](api/update_gift.md) |
-| PATCH | [Update recipient](api/update_recipient.md) |
+| PATCH | [Update gift](api/update_gift.md) (coming soon) |
+| PATCH | [Update recipient](api/update_recipient.md) (coming soon) |
 | GET | [Get all gift info](api/read_all_gift_info.md) |
 | GET | [Get recipients by birthdate](api/read_recipient_by_birthdate.md) |
 | GET | [Get recipients by first name](api/read_recipient_by_first_name.md) |
