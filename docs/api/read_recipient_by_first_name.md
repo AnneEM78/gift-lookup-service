@@ -51,4 +51,4 @@ Sample task response
 
 ## Related information
 
-* [Handling errors](handling_errors.md)
+- [Handling errors](api/handling_errors.md)

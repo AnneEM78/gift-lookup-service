@@ -62,6 +62,6 @@ Note: The below functionalities are planned for a future release.
 
 ## Related information
 
-- [Handling errors](handling_errors.md)
+- [Handling errors](api/handling_errors.md)
 
 Note: This is a mock API meant to simulate the REST interface of an imaginary service.
