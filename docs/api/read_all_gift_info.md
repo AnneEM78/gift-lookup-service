@@ -64,3 +64,7 @@ None
 | ------------- | ----------- | ----------- |
 | 200 | Success | Requested data returned successfully |
 |  ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
+
+## Related information
+
+* [Handling errors](handling_errors.md)
